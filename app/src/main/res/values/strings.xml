@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="question"> بريطانيا اول دولة استخدمت طابع البريد؟</string>
+    <string name="correct">اجابة صحيحة!</string>
+    <string name="trueAnswer">صح</string>
+    <string name="falseAnswer">خطأ</string>
+    <string name="incorrectAnswer">اجابة خاطئة</string>
+</resources>
